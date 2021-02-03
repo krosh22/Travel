@@ -1404,12 +1404,6 @@ img {
 
 /* интро начало */
 
-.intro {
-    min-height: 100vh;
-    background: url("../img/hero.jpg") no-repeat;
-    background-size: cover;
-    padding-bottom: 223px;
-}
 .intro_titele {
     padding-top: 263px;
     font-weight: 500;
