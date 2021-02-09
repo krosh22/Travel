@@ -2098,7 +2098,7 @@ img {
          margin-left: 0;
      }
      .top-card {
-         grid-column: span 3;
+         grid-column: span 6;
      }
      .top-cards-pic {
          margin-bottom: 25px;
