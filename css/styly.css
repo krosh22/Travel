@@ -2103,6 +2103,9 @@ img {
      .top-cards-pic {
          margin-bottom: 25px;
      }
+     .top-cards-stats {
+         max-width: 386px;
+     }
 }
 
 
